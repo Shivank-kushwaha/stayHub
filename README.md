@@ -125,15 +125,9 @@ npm start
 
 ## Homepage
 
-Add homepage screenshot here
+<img width="1890" height="863" alt="image" src="https://github.com/user-attachments/assets/a1c0f090-3f89-4c16-a055-58538f4101e8" />
 
-## Property Listings
 
-Add listings screenshot here
-
-## Property Details
-
-Add details page screenshot here
 
 ---
 
